@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(199, 83%, 66%);
+}
+.btn{
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+}
+.big-title{
+    color: blueviolet;
+    font-size: 100px;
+}
+#btn-red{
+    background-color: red;
+    color: white;
+}
+#btn-yellow{
+    background-color: yellow;
+    color: white;
+}
+#btn-green{
+    background-color: green;
+    color: white;
+}
+#btn-brown{
+    background-color: brown;
+    color: white;
+}
